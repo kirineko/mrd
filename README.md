@@ -4,4 +4,4 @@
 
 ## MRD
 
-1. [回收系统MRD文档](http://zhst.hrzhst.com:3000/zhst_learn/mrd/src/master/recycle.md)
+1. [回收系统MRD文档](https://github.com/kirineko/mrd/blob/master/recycle.md)
